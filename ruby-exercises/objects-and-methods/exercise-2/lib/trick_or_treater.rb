@@ -3,6 +3,7 @@ class TrickOrTreater
     def initialize (dressed_up_as)
         @dressed_up_as = dressed_up_as.style
         @bag = Bag.new
+        @sugar_level = 0
     end
 
     def has_candy?
