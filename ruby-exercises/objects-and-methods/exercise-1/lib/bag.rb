@@ -27,5 +27,3 @@ class Bag
         return container
     end
 end
-
-
