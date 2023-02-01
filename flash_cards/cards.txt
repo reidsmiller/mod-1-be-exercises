@@ -1,5 +1,4 @@
-In what town did Hilary grow up?,Newton,Biographical Data
-What is Hilary's pet peeve about Reid?,When he slurps,Reid
-In what CU Department is Hilary getting her PhD?,Environmental Studies,Biographical Data
-What is Hilary's favorite climbing hold?,Crimp,Funn
-Which of Reid's physical features does Hilary find most attractive?,Eyes,Reid
+What is 5 + 5?,10,STEM
+What is Rachel's favorite animal?,red panda,Turing Staff
+What is Mike's middle name?,nobody knows,Turing Staff
+What cardboard cutout lives at Turing?,Justin bieber,PopCulture
