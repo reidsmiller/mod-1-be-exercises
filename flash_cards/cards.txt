@@ -1,8 +1,5 @@
-What is Reid's favorite food?,Ramen,Foods
-When is Reid's birthday?,06/24/1990,Gen Info
-What is Reid's least favorite food?,Bell Peppers,Foods
-What is Reid's phone number?,3039174375,Gen Info
-What is Reid's favorite movie?,Princess Mononoke,Entertainment
-Where was Reid born?,Boulder,Gen Info
-What is Reid's favorite meal of the day?,Breakfast,Foods
-How much does Reid love Hilary?,ALL THE LOVES!,Gen Info
+In what town did Hilary grow up?,Newton,Biographical Data
+What is Hilary's pet peeve about Reid?,When he slurps,Reid
+In what CU Department is Hilary getting her PhD?,Environmental Studies,Biographical Data
+What is Hilary's favorite climbing hold?,Crimp,Funn
+Which of Reid's physical features does Hilary find most attractive?,Eyes,Reid
