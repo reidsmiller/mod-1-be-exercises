@@ -1,4 +1,8 @@
-What is 5 + 5?,10,STEM
-What is Rachel's favorite animal?,red panda,Turing Staff
-What is Mike's middle name?,nobody knows,Turing Staff
-What cardboard cutout lives at Turing?,Justin bieber,PopCulture
+What is Reid's favorite food?,Ramen,Foods
+When is Reid's birthday?,06/24/1990,Gen Info
+What is Reid's least favorite food?,Bell Peppers,Foods
+What is Reid's phone number?,3039174375,Gen Info
+What is Reid's favorite movie?,Princess Mononoke,Entertainment
+Where was Reid born?,Boulder,Gen Info
+What is Reid's favorite meal of the day?,Breakfast,Foods
+How much does Reid love Hilary?,ALL THE LOVES!,Gen Info
