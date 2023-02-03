@@ -8,21 +8,21 @@ RSpec.describe Werewolf do
   end
 
   it "has a location" do
-    werewolf = Werewolf.new("David","London")
+    werewolf = Werewolf.new("David", "London")
 
     expect(werewolf.location).to eq("London")
   end
 
   it "is by default in human form" do
-    werewolf = Werewolf.new("David","London")
+    werewolf = Werewolf.new("David", "London")
 
     expect(werewolf.human?).to eq(true)
   end
 
   it "can change" do
-    werewolf = Werewolf.new("David","London")
+    werewolf = Werewolf.new("David", "London")
 
-    expect(werewolf.respond_to?).to eq(:change!)
+    expect(werewolf.respond_to?(:change!, @change == 1)).to eq(true)
   end
 
   it "when starting as a human changing means it is no longer human" do
