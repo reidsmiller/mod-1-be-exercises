@@ -8,13 +8,17 @@ class Medusa
     @statues = []
   end
 
-  def stare(x)
-    x.stone = true
-    @statues = x
+  def stare(victim)
+    victim.stone = true
+    self.statues << victim
   end
 
   def statues
     @statues
+  end
+
+  def count
+    statues.length
   end
 
 end
