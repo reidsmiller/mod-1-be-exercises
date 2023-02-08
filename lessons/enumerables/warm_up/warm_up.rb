@@ -40,7 +40,12 @@ p names_ending_in_ie(pets)
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
 def first_num_thats_square_is_above_100(nums)
-
+  arr = []
+  nums.each do |num|
+    if num ** 2 > 100
+      num
+    end
+  end
 end 
 
 p first_num_thats_square_is_above_100(nums)

@@ -26,6 +26,7 @@ class Round
     selected = turns.select do |turn|
       turn.card.category == subject
     end
+    require 'pry'; binding.pry
     select_correct = selected.count do |turn|
       turn.correct?
     end
