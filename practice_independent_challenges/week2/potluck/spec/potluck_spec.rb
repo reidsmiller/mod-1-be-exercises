@@ -61,6 +61,7 @@ RSpec.describe Potluck do
       potluck.add_dish(bean_dip)
 
       expect(potluck.menu.keys).to eq([:appetizer, :entre, :dessert])
+      expect(potluck.menu[:appetizer][0]).to eq("Couscous Salad")
     end
 
     it 'knows category ratios' do
