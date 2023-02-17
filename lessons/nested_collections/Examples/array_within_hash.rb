@@ -5,6 +5,8 @@ pizza_toppings = {
 }
 
 # 1. what is pizza_toppings.count
+3
 # 2. what is pizza_toppings.values
+
 # 3. how can I access the element “pineapple”
 # 4. how can I add the element “olives” to the key “veggies”?
